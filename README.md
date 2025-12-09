@@ -1,2 +1,2 @@
-# LightGBM-in-Credit-Scoring
-LightGBM in Credit Scoring
+# Credit-Scoring
+Credit Scoring
